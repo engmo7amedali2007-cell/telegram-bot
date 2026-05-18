@@ -1,0 +1,17 @@
+# requirements.txt
+# Python 3.10+ required
+
+# Telegram Bot Framework (v3.x)
+aiogram>=3.10.0
+
+# Advanced HTTP Client with TLS Fingerprinting & Cloudflare Bypass
+curl_cffi>=0.7.0
+
+# Async HTTP Client (Proxy Discovery & Validation)
+aiohttp>=3.9.0
+
+# Async File I/O Operations
+aiofiles>=23.2.0
+
+# Environment Variable Loader (.env)
+python-dotenv>=1.0.0
